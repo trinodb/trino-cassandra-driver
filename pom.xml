@@ -8,13 +8,13 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.facebook.presto.cassandra</groupId>
+    <groupId>io.prestosql.cassandra</groupId>
     <artifactId>cassandra-driver</artifactId>
     <version>3.1.4-2-SNAPSHOT</version>
 
     <name>cassandra-driver</name>
     <description>Shaded version of DataStax Java Driver for Apache Cassandra</description>
-    <url>https://github.com/prestodb/presto-cassandra-driver</url>
+    <url>https://github.com/prestosql/presto-cassandra-driver</url>
 
     <licenses>
         <license>
@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/prestodb/presto-cassandra-driver.git</connection>
-        <developerConnection>scm:git:git://github.com/prestodb/presto-cassandra-driver.git</developerConnection>
-        <url>https://github.com/prestodb/presto-cassandra-driver</url>
+        <connection>scm:git:git://github.com/prestosql/presto-cassandra-driver.git</connection>
+        <developerConnection>scm:git:git://github.com/prestosql/presto-cassandra-driver.git</developerConnection>
+        <url>https://github.com/prestosql/presto-cassandra-driver</url>
         <tag>HEAD</tag>
     </scm>
 
