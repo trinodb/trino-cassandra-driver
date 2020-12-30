@@ -10,7 +10,7 @@
 
     <groupId>io.trino.cassandra</groupId>
     <artifactId>cassandra-driver</artifactId>
-    <version>3.1.4-3-SNAPSHOT</version>
+    <version>3.1.4-3</version>
 
     <name>cassandra-driver</name>
     <description>Shaded version of DataStax Java Driver for Apache Cassandra</description>
@@ -32,7 +32,7 @@
         <connection>scm:git:git://github.com/trinodb/trino-cassandra-driver.git</connection>
         <developerConnection>scm:git:git://github.com/trinodb/trino-cassandra-driver.git</developerConnection>
         <url>https://github.com/trinodb/trino-cassandra-driver</url>
-        <tag>HEAD</tag>
+        <tag>3.1.4-3</tag>
     </scm>
 
     <properties>
